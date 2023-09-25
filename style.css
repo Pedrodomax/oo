@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('../twa.jpg');
+}
+.botão {
+    background-image: url('../Capture.PNG'); 
+    color: -#ffffffd3;
+    padding: 36px 48px;
+    font-family: 'Kameron', serif;
+    border: #0e0f46d3,15px;
+    border-radius: 10px;
+
+}
